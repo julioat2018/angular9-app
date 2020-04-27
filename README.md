@@ -5,14 +5,6 @@
     <br>
     Lazy Loading + SSR + PWA + SEO + google Analytics + API REST (Node.js)
     <br>
-    Prototype bootstrap
-    <br>
-    <a href="https://angular.ganatan.com/">LIVE DEMO</a>
-    <br>
-    <br>
-    <a href="https://angular.ganatan.com/">
-      <img src="https://media.giphy.com/media/RfqiR12yhtHpwaItBq/giphy.gif" alt="Angular 9 Example Application"/>
-    </a>
   </p>
 </p>
 
